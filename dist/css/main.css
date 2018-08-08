@@ -1,0 +1,14 @@
+.home_slider {
+  background: #87509c;
+  min-height: 368px;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center; }
+  .home_slider .btn-more {
+    background: #17c2a4;
+    color: #333333;
+    padding: .5rem 3rem; }
+
+/*# sourceMappingURL=main.css.map */
