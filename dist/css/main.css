@@ -13,16 +13,28 @@
 
 .home_sevices {
   background: #17c2a4;
-  min-height: 579px;
+  min-height: 679px;
   padding: .5rem .7rem;
   color: #ffffff;
-  text-align: center; }
-  .home_sevices .mid-center {
-    justify-content: center;
+  text-align: center;
+  justify-content: center;
+  align-items: center; }
+  .home_sevices .md.mid-center {
+    text-align: center;
     align-items: center;
-    font-size: 150%;
-    color: #ffffff; }
-    .home_sevices .mid-center .edit-size {
-      font-size: 300%; }
+    font-size: 1rem; }
+    .home_sevices .md.mid-center h2 {
+      font-size: 2.5rem;
+      text-transform: uppercase;
+      letter-spacing: .3rem;
+      font-weight: bold; }
+  .home_sevices .col-sm-3 {
+    padding: 1rem .8rem; }
+    .home_sevices .col-sm-3 .figure-caption {
+      text-transform: uppercase;
+      font-size: 1.5rem;
+      color: #ffffff;
+      font-weight: bold;
+      padding: 1rem; }
 
 /*# sourceMappingURL=main.css.map */
