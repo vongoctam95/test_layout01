@@ -11,4 +11,18 @@
     color: #333333;
     padding: .5rem 3rem; }
 
+.home_sevices {
+  background: #17c2a4;
+  min-height: 579px;
+  padding: .5rem .7rem;
+  color: #ffffff;
+  text-align: center; }
+  .home_sevices .mid-center {
+    justify-content: center;
+    align-items: center;
+    font-size: 150%;
+    color: #ffffff; }
+    .home_sevices .mid-center .edit-size {
+      font-size: 300%; }
+
 /*# sourceMappingURL=main.css.map */
